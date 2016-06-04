@@ -1,0 +1,23 @@
+{
+  "name": "angular-react",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "mashnello <mashnenko@mail.ru>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.6",
+    "angular-ui-router": "ui-router#^0.3.1",
+    "react": "^15.1.0",
+    "skeleton": "^2.0.4"
+  }
+}
